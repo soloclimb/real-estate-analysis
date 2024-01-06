@@ -3,3 +3,5 @@ virt/*
 __init__.py
 __pycache__/*
 *cpython*
+plugins/*
+logs/*
