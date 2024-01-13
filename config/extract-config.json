@@ -1,9 +1,0 @@
-{
-        "efin-cagm": ["date_disclosed", "project_url", 
-                        "company_name", "country", "industry",
-                        "status", "ifc_invested_date", 
-                        "ifc_investment_for_risk_management_million_usd", 
-                        "ifc_investment_for_loan_million_usd", 
-                        "total_ifc_investment_as_approved_by_board_million_usd", 
-                        "as_of_date"]
-}
